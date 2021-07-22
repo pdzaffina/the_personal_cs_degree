@@ -12,6 +12,13 @@ I'm living proof of the character Will Hunting's quote:
 I've compiled a list of references to help guide others with their self development journey.
 
 ## Basic Theory
+### Concepts
+- Legacy Code
+- Test Driven Development
+- Domain Driven Design
+- Software Design Patterns
+- Software Architectural Patterns 
+
 ### Data bases
 - OLTP / OLAP
 - Write heavy vs. Read heavy workflows
@@ -32,6 +39,8 @@ I've compiled a list of references to help guide others with their self developm
 - Agile
   - Agile Manifesto
 - "The Subway problem"
+### Web Dev
+- MVC Pattern
 
 ## System Design / Architecture
 - Event Driven Microservices
@@ -61,6 +70,7 @@ I've compiled a list of references to help guide others with their self developm
 - Brooks
 - Conway
 - Dyskstra
+- Guido van Rossum
 
 ## Opinions
 - Zen of Python
@@ -75,19 +85,24 @@ I've compiled a list of references to help guide others with their self developm
   - Postgres
   - Event Driven Pub/Sub
 - Python
+  - Django framework
+- sqlite
 - Clojure
 - Typescript
+- C# 
+  - Blazor framework 
 
 ## Recommended Reading*
 ### "The Classics"
 - Gang of Four
 - Wizard Book
-- Pragmatic Programmer
-- Clean Code
+- *The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition*
+  - by David Thomas and Andrew Hunt
+- *Clean Code: A Handbook of Agile Software Craftsmanship*
+  - by Robert C. Martin
 - Kent Beck
 - Michael Feathers
 - Don Dykstra
-- Guido van Rossum
 
 ### IT to Drive Business
 - Lean Start Up
@@ -105,6 +120,17 @@ I've compiled a list of references to help guide others with their self developm
 - *The DevOps Handbook*
   - by Gene Kim, Patrick Debois, John Willis, Jez Humble, and John Allspaw
   - https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002
+
+### DDD
+- *Domain Modeling Made Functional: Tackle Software Complexity with Domain-Driven Design and F#*
+  - by Scott Wlaschin
+
+
+
+### Management
+- *The Effective Manager*
+  - by Mark Horstman
+
 
 ### History
 - The Turning book on breaking down his paper
