@@ -42,6 +42,9 @@ This is currently a mind dump. I'll be working to shape this into a more coheren
 - Agile
   - Agile Manifesto
 - "The Subway problem"
+- Virtualization
+- Containerization
+- Infrastructure as Code
 
 ### Web Dev
 - MVC Pattern
