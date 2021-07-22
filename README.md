@@ -29,6 +29,9 @@ I've compiled a list of references to help guide others with their self developm
 - DevOps
 - Legacy Code
 - Responsive Web Design
+- Agile
+  - Agile Manifesto
+- "The Subway problem"
 
 ## System Design / Architecture
 - Event Driven Microservices
@@ -50,11 +53,21 @@ I've compiled a list of references to help guide others with their self developm
 - learining.oreilly.com
 
 ## Characters
+- Ada Lovelace
 - Bob "Uncle Bob" Martin
 - Michael Feathers
-- 
+- Dorothy Vaughan
+- Kent Beck
+- Brooks
+- Conway
+- Dyskstra
 
 ## Opinions
+- Zen of Python
+- Web is platform that best delivers write once, run anywhere
+- LoB apps in Enterprise as web first
+- Event driven to act as unifying sysytem of lots of different disparate systems
+  - Customer addresses and every system needing access to a central data system. When One changes some other businesses need the knowledge that there was a change, even if they don't want to change.
 
 ## Recommended Reading*
 ### "The Classics"
@@ -65,6 +78,7 @@ I've compiled a list of references to help guide others with their self developm
 - Kent Beck
 - Michael Feathers
 - Don Dykstra
+- Guido van Rossum
 
 ### IT to Drive Business
 - Lean Start Up
@@ -84,7 +98,7 @@ I've compiled a list of references to help guide others with their self developm
   - https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002
 
 ### History
-- The turning book on breaking down his paper
+- The Turning book on breaking down his paper
 - Where Wizards Stay Up Late: The Origins of the Internet 
 - Life in Code: A Personal History of Technology 
 - 
