@@ -150,7 +150,9 @@ This is currently a mind dump. I'll be working to shape this into a more coheren
 - Talk Python to Me
 - .Net Rocks
 - Run As Radio
-- 
+
+## Links*
+- https://www.enterpriseintegrationpatterns.com/ 
 
 
 *note: links are for convenience, I don't receive anything when you use them
