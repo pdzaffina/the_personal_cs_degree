@@ -11,6 +11,9 @@ I'm living proof of the character Will Hunting's quote:
 
 I've compiled a list of references to help guide others with their self development journey.
 
+## Roadmap
+This is currently a mind dump. I'll be working to shape this into a more coherent structure over time.
+
 ## Basic Theory
 ### Concepts
 - Legacy Code
@@ -19,14 +22,14 @@ I've compiled a list of references to help guide others with their self developm
 - Software Design Patterns
 - Software Architectural Patterns 
 
-### Data bases
+### Databases
 - OLTP / OLAP
 - Write heavy vs. Read heavy workflows
 - Eventual consistancy
 - NoSQL
 - Data warehousing
   - Kimball
-  - 
+  - Slowly changing dimensions
 
 ## Techniques
 - Functional Programming
@@ -39,6 +42,7 @@ I've compiled a list of references to help guide others with their self developm
 - Agile
   - Agile Manifesto
 - "The Subway problem"
+
 ### Web Dev
 - MVC Pattern
 
