@@ -9,7 +9,7 @@ I'm living proof of the character Will Hunting's quote:
 >
 > ― Matt Damon, Good Will Hunting 
 
-I've compiled a list of refernces to help guide others with their self development journey.
+I've compiled a list of references to help guide others with their self development journey.
 
 ## Basic Theory
 
