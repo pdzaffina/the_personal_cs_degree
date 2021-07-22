@@ -68,6 +68,15 @@ I've compiled a list of references to help guide others with their self developm
 - LoB apps in Enterprise as web first
 - Event driven to act as unifying sysytem of lots of different disparate systems
   - Customer addresses and every system needing access to a central data system. When One changes some other businesses need the knowledge that there was a change, even if they don't want to change.
+- ftw
+  - Functional
+  - Web based
+  - F# / C#
+  - Postgres
+  - Event Driven Pub/Sub
+- Python
+- Clojure
+- Typescript
 
 ## Recommended Reading*
 ### "The Classics"
