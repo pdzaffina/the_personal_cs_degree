@@ -26,9 +26,13 @@ I've compiled a list of references to help guide others with their self developm
 
 ## Opinions
 
-## Recommended Reading
+## Recommended Reading*
 ### "The Classics"
-### Topic 
+### DevOps
+- *The Phoenix Project*
+  - by by Gene Kim, Kevin Behr, and George Spafford
+  - https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592
 - Book
-- Book
-- 
+
+
+*note: links are for convenience, I don't receive anything when you use them
