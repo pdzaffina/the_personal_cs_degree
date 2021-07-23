@@ -78,6 +78,7 @@ This is currently a mind dump. I'll be working to shape this into a more coheren
 - Conway
 - Dyskstra
 - Guido van Rossum
+- Michael Fowler
 
 ## Opinions
 - Zen of Python
@@ -138,12 +139,12 @@ This is currently a mind dump. I'll be working to shape this into a more coheren
 - *The Effective Manager*
   - by Mark Horstman
 
-
 ### History
 - The Turning book on breaking down his paper
 - Where Wizards Stay Up Late: The Origins of the Internet 
 - Life in Code: A Personal History of Technology 
-- 
+
+- Imposter's Handbook
 
 ## Recommended Listening*
 - Coder Radio
