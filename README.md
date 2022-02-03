@@ -7,7 +7,7 @@ My name is Peter Zaffina and I'm passionate about using technology to improve pe
 I'm living proof of the character Will Hunting's quote:
 > You wasted $150,000 on an education you coulda got for $1.50 in late fees at the public library.
 >
-> ― Matt Damon, Good Will Hunting 
+> ― Matt Damon, *Good Will Hunting* 
 
 I've compiled a list of references to help guide others with their self development journey.
 
