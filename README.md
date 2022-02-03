@@ -148,10 +148,12 @@ This is currently a mind dump. I'll be working to shape this into a more coheren
 - 
 
 ## Recommended Listening*
-- Coder Radio
-- Talk Python to Me
-- .Net Rocks
-- Run As Radio
+- [Coder Radio](https://podcastindex.org/podcast/487548)
+- [Linux Unplugged](https://podcastindex.org/podcast/575694)
+- [Talk Python to Me](https://podcastindex.org/podcast/742305)
+- [.Net Rocks](https://podcastindex.org/podcast/699546)
+- [Run As Radio](https://podcastindex.org/podcast/1427466)
+- [Syntax](https://podcastindex.org/podcast/522889)
 
 ## Links*
 - https://www.enterpriseintegrationpatterns.com/ 
